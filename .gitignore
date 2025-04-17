@@ -1,5 +1,4 @@
-# git-ignore-cleanup
 .Rproj.user
+.Rhistory
 .RData
 .Ruserdata
-*.csv

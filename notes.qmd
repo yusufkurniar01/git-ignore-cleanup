@@ -1,0 +1,13 @@
+---
+title: "Tutorial 7"
+format: html
+editor: visual
+---
+
+```{r}
+summary(mtcars)
+```
+
+New addition
+New addition 2
+New addition 3
